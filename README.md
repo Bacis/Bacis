@@ -9,6 +9,4 @@
 - 💬 Ask me about collaboration on opensource or freelance gigs!
 - 📫 How to reach me: https://t.me/Bacius
 
-![Bacis's github stats](https://github-readme-stats.vercel.app/api?username=Bacis&show_icons=true&theme=material-palenight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bacis&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://lh3.googleusercontent.com/proxy/bRNMBNtWVTcZaRzUZ_H2ZxjsKOwsmUv34ZUj86QdQMwjpSztq7mMHBdDZoLp4TAjJFP0p8L5u_XJ-LJOpzw3A8K912EjNWnVbb9L3HF8OKY)
