@@ -12,3 +12,5 @@
 - 📫 How to reach me: https://t.me/Bacius
 
 ![image](https://lh3.googleusercontent.com/proxy/bRNMBNtWVTcZaRzUZ_H2ZxjsKOwsmUv34ZUj86QdQMwjpSztq7mMHBdDZoLp4TAjJFP0p8L5u_XJ-LJOpzw3A8K912EjNWnVbb9L3HF8OKY)
+
+Thanks for visiting! ❤️
