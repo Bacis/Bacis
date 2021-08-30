@@ -1,46 +1,23 @@
 
 
-# 👨🏻‍✈️ Welcome to my Github
+# Andrius Bačianskas
+## 👾 Web Engineering / Blockchain / DeFi 👾
 
-### My name is Andrius Bačianskas and I am a freelance Web Engineer, currently located in Berlin. Friends know me as Bačis. I mostly do work in Javascript ecosystem and know my tools pretty well and hold a number of years of experience with React and Node. I enjoy working on the full software development cycle - starting with hosting and finishing with frontend. 👾
+### An all-round engineer with over 8 years of experience in JavaScript ecosystem.  
 
 # 🌍 Web Portfolio
 
-#### JS_🥷🏻
-##### 2020/2021 - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__
-*Tech stack & duties:*
-```
-> react.js / node.js / typescript / lerna / graphql / styled-components / react-testing-library
-```
- 
-___
-
-#### JS_🥷🏻
-##### 2020 - __[Sesame Inc.](https://sesamecare.com)__
-*Tech stack & duties:*
-
-```
-> react.js / next.js / lerna / graphql / styled-components / react-testing-library
-```
-___
-
-#### JS_🥷🏻
-##### 2020 - __[Hey Car](https://hey.car)__
-*Tech stack & duties:*
-
-```
-> react.js / node.js / lerna / graphql / styled-components / enzyme
-```
-___
-
-#### JS_🥷🏻
-##### 2019/2020 - __[Lukso Blockchain](https://lukso.network/)__
-*Tech stack & duties:*
-
-```
-> react.js / node.js / SASS / d3.js / web3.js / GCP / jest / KYC
-```
-___
+##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
+##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
+##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
+##### 2019/2020 - Software Engineer - __[Lukso Blockchain](https://lukso.network/)__
+##### 2016 - Software Engineer - __[Rebuy](https://www.rebuy.de/)__
+##### 2016 - Web Eng. - __[Content Fleet GmbH](https://contentfleet.de/)__
+##### 2015 - Web Eng. - __[Turn On](https://www.turn-on.de/)__
+##### 2015/2016 - Web Eng. - __[Pille Danach](https://www.pille-danach.de/)__
+##### 2013/2016 - Web Eng. - __[BildSpielt](https://spiele.bild.de/)__
+##### 2013/2016 - Web Eng. - __[Einfachtierisch](https://einfachtierisch.de/)__
 
 
-- 📫 - How to reach me: https://t.me/Bacius
+# 📫 Contact 
+How to reach me: https://t.me/Bacius
