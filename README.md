@@ -18,6 +18,18 @@
 ##### 2013/2016 - Web Eng. - __[BildSpielt](https://spiele.bild.de/)__
 ##### 2013/2016 - Web Eng. - __[Einfachtierisch](https://einfachtierisch.de/)__
 
+# 🦑 Programming languages
+| Name | Years of exprience| Experience level |
+| :---         |     :---:      |          ---: |
+| Javascript   | 8     | Advanced    |
+| PHP     | 4       | Advanced      |
+| C#     | 3       | Beginner      |
+| Typescript     | 1       | Intermediate      |
+| Java     | 1       | Intermediate      |
+| Python     | 1       | Beginner      |
+| Haskell     | < 1       | Beginner      |
+| Rust     | < 1       | Beginner      |
+| Solidity     | < 1       | Beginner      |
 
 # 📫 Contact 
 How to reach me: https://t.me/Bacius
