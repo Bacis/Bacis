@@ -19,7 +19,7 @@
 ##### 2013/2016 - Web Eng. - __[Einfachtierisch](https://einfachtierisch.de/)__
 
 # 🦑 Programming languages
-| Name | Years of exprience| Experience level |
+| Name | Years of exp.| Exp. level |
 | :---         |     :---:      |          ---: |
 | Javascript   | 8     | Advanced    |
 | PHP     | 4       | Advanced      |
@@ -30,6 +30,15 @@
 | Haskell     | < 1       | Beginner      |
 | Rust     | < 1       | Beginner      |
 | Solidity     | < 1       | Beginner      |
+
+# 🧰 Other skills & tools
+
+| Spectrum | Name |
+| ---         |          --- |
+| frontend   | HTML / HTML5, CSS / CSS3, SASS, LESS, styled-components, React, Redux, React-native, react-testing-library, Lerna, Yarn, NPM, Electron, D3, MagicScroll, GSAP, Jest, Mocha, Supertest, Enzyme, Eslint, Web3, Websocket, TradingView, A/B testing.    |
+| backend   | Express.js, Websocket, Elastic, Mysql, MongoDB, Postgress, Jest, Symfony, Flask, Spring.   |
+| hosting   | AWS, Google Cloud Platform, AWS Lambda, Vercel  |
+
 
 # 📫 Contact 
 How to reach me: https://t.me/Bacius
