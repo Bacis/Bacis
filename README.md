@@ -39,6 +39,10 @@
 | backend   | Express.js, Websocket, Elastic, Mysql, MongoDB, Postgress, Jest, Symfony, Flask, Spring.   |
 | hosting   | AWS, Google Cloud Platform, AWS Lambda, Vercel  |
 
+# 🕹️ my NFT's
+- Data healer by Sutu - https://www.hicetnunc.xyz/objkt/138278
+- On1 Force - https://opensea.io/assets/0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d/2819
+
 
 # 📫 Contact 
 How to reach me: https://t.me/Bacius
