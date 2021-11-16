@@ -8,7 +8,7 @@
 # 🌍 Web Portfolio
 
 ##### 2021 July/Present - Co-founder / Tech lead
-##### 2021 August/Present - Developer [Scallop](https://www.scallop.io/)
+##### 2021 August/Present - Developer - [Scallop](https://www.scallop.io/)
 ##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
 ##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
 ##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
