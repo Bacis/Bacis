@@ -3,10 +3,11 @@
 # Andrius Bačianskas
 ## 👾 Web Engineering / Blockchain / DeFi 👾
 
-### An all-round engineer with over 8 years of experience in JavaScript ecosystem.  
+### An all-round engineer with over 9 years of experience in JavaScript ecosystem. 1st place Winners of Cardstarter Hack Cardano [hackathon](https://twitter.com/cardstarter/status/1451251343247609868?s=21). 
 
 # 🌍 Web Portfolio
 
+##### 2021 July/Present - Co-founder / Tech lead
 ##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
 ##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
 ##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
@@ -21,7 +22,7 @@
 # 🦑 Programming languages
 | Name | Years of exp.| Exp. level |
 | :---         |     :---:      |          ---: |
-| Javascript   | 8     | Advanced    |
+| Javascript   | 9     | Advanced    |
 | PHP     | 4       | Advanced      |
 | C#     | 3       | Beginner      |
 | Typescript     | 1       | Intermediate      |
