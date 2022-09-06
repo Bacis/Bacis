@@ -1,13 +1,13 @@
 
 
 # Andrius Bačianskas
-## 👾 Web Engineering / Blockchain / DeFi 👾
+## 👾 Web Engineer / Blockchain / DeFi 👾
 
-### An all-round engineer with over 9 years of experience in JavaScript ecosystem. 1st place Winners of Cardstarter Hack Cardano [hackathon](https://twitter.com/cardstarter/status/1451251343247609868?s=21). 
+### A versatile frontend engineer with 10 years of experience in the tech industry that can write well-tested production- ready code with solid knowledge on launching it on your favourite cloud hosting service. 1st place Winner of Cardstarter Hack Cardano [hackathon](https://twitter.com/cardstarter/status/1451251343247609868?s=21). 
 
 # 🌍 Web Portfolio
 
-##### 2021 July/Present - Co-founder / Tech lead - [Catch](https://catch.express)
+##### 2021 July/Present - Co-founder / Tech lead - [Catch](https://catch.game)
 ##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
 ##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
 ##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
@@ -19,31 +19,17 @@
 ##### 2013/2016 - Web Eng. - __[BildSpielt](https://spiele.bild.de/)__
 ##### 2013/2016 - Web Eng. - __[Einfachtierisch](https://einfachtierisch.de/)__
 
-# 🦑 Programming languages
+# 🦑 Languages
 | Name | Years of exp.| Exp. level |
 | :---         |     :---:      |          ---: |
 | Javascript   | 9     | Advanced    |
-| PHP     | 4       | Advanced      |
-| C#     | 3       | Beginner      |
-| Typescript     | 1       | Intermediate      |
-| Java     | 1       | Intermediate      |
-| Python     | 1       | Beginner      |
-| Haskell     | < 1       | Beginner      |
-| Rust     | < 1       | Beginner      |
-| Solidity     | < 1       | Beginner      |
+| Typescript     | 2       | Intermediate      |
+| Rust     | 1       | Beginner      |
 
 # 🧰 Other skills & tools
 
 | Spectrum | Name |
 | ---         |          --- |
-| frontend   | HTML / HTML5, CSS / CSS3, SASS, LESS, styled-components, React, Redux, React-native, react-testing-library, Lerna, Yarn, NPM, Electron, D3, MagicScroll, GSAP, Jest, Mocha, Supertest, Enzyme, Eslint, Web3, Websocket, TradingView, A/B testing.    |
-| backend   | Express.js, Websocket, Elastic, Mysql, MongoDB, Postgress, Jest, Symfony, Flask, Spring.   |
-| hosting   | AWS, Google Cloud Platform, AWS Lambda, Vercel  |
-
-# 🕹️ my NFT's
-- Data healer by Sutu - https://www.hicetnunc.xyz/objkt/138278
-- On1 Force - https://opensea.io/assets/0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d/2819
-
-
-# 📫 Contact 
-How to reach me: https://t.me/Bacius
+| frontend   | Tailwind, styled-components, React, Redux, React-native, react-testing-library, Lerna, Yarn, NPM, Electron, D3, MagicScroll, GSAP, Jest, Eslint, Web3, Websocket, TradingView, A/B testing.    |
+| backend   | Node.js, Elastic, Mysql, MongoDB, Postgress.   |
+| hosting   | AWS, GCP, AWS Lambda, Vercel  |
