@@ -3,7 +3,7 @@
 # Andrius Bačianskas
 ## 👾 Web Engineer / Blockchain / DeFi 👾
 
-### A versatile frontend engineer with 10 years of experience in the tech industry that can write well-tested production- ready code with solid knowledge on launching it on your favourite cloud hosting service. 1st place Winner of Cardstarter Hack Cardano [hackathon](https://twitter.com/cardstarter/status/1451251343247609868?s=21). 
+### A versatile software engineer with 10 years of experience in the tech industry that can write well-tested production- ready code with solid knowledge on launching it on your favourite cloud hosting service.
 
 # 🌍 Web Portfolio
 
