@@ -7,7 +7,8 @@
 
 # 🌍 Web Portfolio
 
-##### 2021 July/Present - Co-founder / Tech lead - [Catch](https://catch.game)
+##### 2022/present - Senior Software Engineer - [Unbound](https://www.unboundnation.io/)
+##### 2021/2022 - Co-founder / Tech lead - [Catch](https://catch.game)
 ##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
 ##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
 ##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
