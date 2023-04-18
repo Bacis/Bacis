@@ -3,7 +3,7 @@
 # Andrius Bačianskas
 ## 👾 Web Engineer / Blockchain / DeFi 👾
 
-### A versatile software engineer with 10 years of experience in the tech industry that can write well-tested production- ready code with solid knowledge on launching it on your favourite cloud hosting service.
+### As a versatile software engineer with 10 years of experience in the tech industry, I have a proven track record of writing well-tested, production-ready code. My solid knowledge of cloud hosting services enables me to seamlessly launch and maintain applications on your preferred platform.
 
 # 🌍 Web Portfolio
 
