@@ -20,11 +20,3 @@ Working at Unbound allows me to combine my passion for gaming, blockchain, and s
 | Typescript     | Intermediate      |
 | Solidity     | Intermediate      |
 | Rust     | Beginner      |
-
-# Other skills & tools
-
-| Spectrum | Name |
-| ---         |          --- |
-| frontend   | Tailwind, styled-components, React, Redux, React-native, react-testing-library, Lerna, Yarn, NPM, Electron, D3, MagicScroll, GSAP, Jest, Eslint, Web3, Websocket, TradingView, A/B testing.    |
-| backend   | Node.js, Elastic, Mysql, MongoDB, Postgress.   |
-| hosting   | AWS, GCP, AWS Lambda, Vercel  |
