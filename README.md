@@ -1,33 +1,27 @@
 
 
-# Andrius Bačianskas
-## 👾 Web Engineer / Blockchain / DeFi 👾
+### As a passionate and independent web engineer with a decade of experience, I thrive on creating unique and innovative solutions. I'm fascinated by the potential of blockchain technology and constantly exploring the decentralized finance (DeFi) space. My expertise lies in crafting well-tested code and launching applications on various platforms.
 
-### As a versatile software engineer with 10 years of experience in the tech industry, I have a proven track record of writing well-tested, production-ready code. My solid knowledge of cloud hosting services enables me to seamlessly launch and maintain applications on your preferred platform.
-
-# 🌍 Web Portfolio
+# Web Portfolio
 
 ##### 2022/present - Senior Software Engineer - [Unbound](https://www.unboundnation.io/)
-##### 2021/2022 - Co-founder / Tech lead - [Catch](https://catch.game)
-##### 2020/2021 - JavaScript Engineer - __[Media Markt](https://www.mediamarkt.de)__ / __[Saturn](https://www.saturn.de/)__ 
-##### 2020 - Frontend Engineer - __[Sesame Inc.](https://sesamecare.com)__
-##### 2020 - Frontend Engineer - __[Hey Car](https://hey.car)__
-##### 2019/2020 - Software Engineer - __[Lukso Blockchain](https://lukso.network/)__
-##### 2016 - Software Engineer - __[Rebuy](https://www.rebuy.de/)__
-##### 2016 - Web Eng. - __[Content Fleet GmbH](https://contentfleet.de/)__
-##### 2015 - Web Eng. - __[Turn On](https://www.turn-on.de/)__
-##### 2015/2016 - Web Eng. - __[Pille Danach](https://www.pille-danach.de/)__
-##### 2013/2016 - Web Eng. - __[BildSpielt](https://spiele.bild.de/)__
-##### 2013/2016 - Web Eng. - __[Einfachtierisch](https://einfachtierisch.de/)__
+At Unbound, I lead the development of a web3 gaming asset rental system, integrating payment and rental functionality on Ethereum, Avalanche, Polygon, and Immutable X. This cutting-edge platform revolutionizes how gamers interact with digital assets, allowing them to securely rent, trade, and monetize in-game items.
 
-# 🦑 Languages
-| Name | Years of exp.| Exp. level |
-| :---         |     :---:      |          ---: |
-| Javascript   | 9     | Advanced    |
-| Typescript     | 2       | Intermediate      |
-| Rust     | 1       | Beginner      |
+As a senior software engineer, I architect and implement the core functionality of the system. Leveraging my expertise in web3, I  focus on smart contracts on various EVM chains and seamlessly integrate them with our web application. This ensures a secure and transparent rental experience for gamers.
 
-# 🧰 Other skills & tools
+To enhance the platform's scalability and reduce transaction costs, I explore layer 2 solutions and integrate with protocols like Immutable X. This ensures smooth and cost-efficient transactions, optimizing the overall user experience.
+
+Working at Unbound allows me to combine my passion for gaming, blockchain, and software engineering. I am excited to contribute to the evolution of the gaming industry by empowering gamers and unlocking new possibilities in the world of gaming asset ownership and utilization.
+
+# Programming
+| Name | Exp. level |
+| :---         |          ---: |
+| Javascript   | Advanced    |
+| Typescript     | Intermediate      |
+| Solidity     | Intermediate      |
+| Rust     | Beginner      |
+
+# Other skills & tools
 
 | Spectrum | Name |
 | ---         |          --- |
