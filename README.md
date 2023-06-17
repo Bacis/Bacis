@@ -16,7 +16,6 @@ Working at Unbound allows me to combine my passion for gaming, blockchain, and s
 # Programming
 | Name | Exp. level |
 | :---         |          ---: |
-| Javascript   | Advanced    |
-| Typescript     | Intermediate      |
+| Typescript / Node.js     | Advanced      |
 | Solidity     | Intermediate      |
 | Rust     | Beginner      |
