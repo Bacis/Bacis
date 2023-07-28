@@ -4,7 +4,7 @@
 
 # Hall of fame
 
-##### 2022/present - Senior Software Engineer - [Unbound](https://www.unboundnation.io/)
+##### October 2022 - July 2023 - Senior Software Engineer - [Unbound](https://www.unboundnation.io/)
 At Unbound, I lead the development of a web3 gaming asset rental system, integrating payment and rental functionality on Ethereum, Avalanche, Polygon, and Immutable X. This cutting-edge platform revolutionizes how gamers interact with digital assets, allowing them to securely rent, trade, and monetize in-game items.
 
 As a senior software engineer, I architect and implement the core functionality of the system. Leveraging my expertise in web3, I  focus on smart contracts on various EVM chains and seamlessly integrate them with our web application. This ensures a secure and transparent rental experience for gamers.
