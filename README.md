@@ -1,5 +1,3 @@
-
-
 As a passionate and independent web engineer with a decade of experience, I thrive on creating unique and innovative solutions. I'm fascinated by the potential of blockchain technology and constantly exploring the decentralized finance (DeFi) space. My expertise lies in crafting well-tested code and launching applications on various platforms.
 
 # Hall of fame
